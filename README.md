@@ -1,4 +1,4 @@
-# MyanmarAlphabet_dataset
+# Myanmar Alphabet dataset
 In this dataset for Myanmar language, there are
 Consonants = 33, 
 Digits = 10, and 
